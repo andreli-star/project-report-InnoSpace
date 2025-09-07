@@ -45,7 +45,7 @@ Y ante esta problemática nos surge la siguiente pregunta: ¿Cómo podríamos ha
 
 12. **Otro riesgo que debemos considerar es que los estudiantes y los profesores no tengan el tiempo, ni la motivación para postularse para otros centros laborales durante su carrera.
 
-User Assumptions
+### User Assumptions <br>
 
 1. <b>¿Quién es el usuario?</b>
 
