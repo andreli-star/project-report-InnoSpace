@@ -1,8 +1,8 @@
-1.2.2. Lean UX Process
+### 1.2.2. Lean UX Process
 
-1.2.2.1. Lean UX Problem Statements
+#### 1.2.2.1. Lean UX Problem Statements
 
-El propóstivo de InnoBridge es ser el puente entre el mundo académico y el empresarial en el Perú.
+El propóstivo de <b>InnoBridge</b> es ser el puente entre el mundo académico y el empresarial en el Perú.
 
 En el cual, por un lado, los estudiantes y profesores universitarios, quienes podrán subir proyectos, investigaciones, tesis o ideas innovadoras. Además, podrán explorar retos reales publicados por empresas y organizaciones, con la posibilidad de trabajar y mostrar su talento en un entorno competitivo y profesional.
 
@@ -17,53 +17,53 @@ Y ante esta problemática nos surge la siguiente pregunta: ¿Cómo podríamos ha
 - Vision/Strategy: Crear una plataforma accesible cuyos estudiantes y profesores de una Universidad, puedan darse a conocer mediante sus trabajos, tesis, asignaciones y que tengan oportunidad en el mundo laboral, obteniendo múltiples propuestas.
 - Initial Segment: Estudiantes y profesores universitarios que buscan dar el paso entre la Universidad y el centro laboral, también, contar con empresas de peso, para la contratación de nuevo personal.
 
-1.2.2.2. Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
 
-Business Assumptions
+#### Business Assumptions <br>
 
-1. Creo en que nuestros usuarios, ya sean estudiantes o profesores universitarios, puedan dar el gran paso desde la Universidad a un centro laboral.
+1. **Creo en que nuestros usuarios, ya sean estudiantes o profesores universitarios, puedan dar el gran paso desde la Universidad a un centro laboral.
 
-2. Estas necesidades se pueden satisfacer una plataforma web que conecte a estudiantes y profesores lanzando sus materiales importantes a personas que quieran sobresalir.
+2. **Estas necesidades se pueden satisfacer una plataforma web que conecte a estudiantes y profesores lanzando sus materiales importantes a personas que quieran sobresalir.
 
-3. Nuestros clientes iniciales serán estudiantes y profesores universitarios, de carreras al azar, que buscan un trabajo en cualquier empresa.
+3. **Nuestros clientes iniciales serán estudiantes y profesores universitarios, de carreras al azar, que buscan un trabajo en cualquier empresa.
 
-4. El valor más importante que un cliente quiere de nuestros servicios es poder conseguir trabajos y publicar sus logros y materiales anteriores para poder tener un historial llamativo.
+4. **El valor más importante que un cliente quiere de nuestros servicios es poder conseguir trabajos y publicar sus logros y materiales anteriores para poder tener un historial llamativo.
 
-5. El cliente también va a obtener flexibilidad de horarios, ingresos adicionales, desarrollo de habilidades blandas y validación en su perfil.
+5. **El cliente también va a obtener flexibilidad de horarios, ingresos adicionales, desarrollo de habilidades blandas y validación en su perfil.
 
-6. Se va a obtener a la gran mayoría de clientes mediante las redes sociales (Facebook, X, Instagram, TikTok), alianzas con empresas peruanas e internacionales y campañas digitales en varios foros universitarios.
+6. **Se va a obtener a la gran mayoría de clientes mediante las redes sociales (Facebook, X, Instagram, TikTok), alianzas con empresas peruanas e internacionales y campañas digitales en varios foros universitarios.
 
-7. Se van a obtener ingresos mediante comisiones por publicación de materiales u obtener una suscripción permium para empresas de mayor jerarquía.
+7. **Se van a obtener ingresos mediante comisiones por publicación de materiales u obtener una suscripción permium para empresas de mayor jerarquía.
 
-8. Nuestra competencia en el mercado serán plataformas como Indeed, LinkedIn Jobs, Glassdoor, etc.
+8. **Nuestra competencia en el mercado serán plataformas como Indeed, LinkedIn Jobs, Glassdoor, etc.
 
-9. Vamos a tener ventaja frente a nuestra competencia debido a que estamos centrados en el mercado nacional e internacional, sin barreras como un título o años de experiencia.
+9. **Vamos a tener ventaja frente a nuestra competencia debido a que estamos centrados en el mercado nacional e internacional, sin barreras como un título o años de experiencia.
 
-10. El mayor riesgo del servicio es la baja participación de estudiantes y profesores o la desconfianza de las empresas en contratar a personal sin tener preparación seria.
+10. **El mayor riesgo del servicio es la baja participación de estudiantes y profesores o la desconfianza de las empresas en contratar a personal sin tener preparación seria.
 
-11. Lo resolveremos realizando incentivos por primeras contrataciones, sistema de reputación de candidatos, alianzas con universidades y empresas y casos de éxito visible.
+11. **Lo resolveremos realizando incentivos por primeras contrataciones, sistema de reputación de candidatos, alianzas con universidades y empresas y casos de éxito visible.
 
-12. Otro riesgo que debemos considerar es que los estudiantes y los profesores no tengan el tiempo, ni la motivación para postularse para otros centros laborales durante su carrera.
+12. **Otro riesgo que debemos considerar es que los estudiantes y los profesores no tengan el tiempo, ni la motivación para postularse para otros centros laborales durante su carrera.
 
 User Assumptions
 
-1. ¿Quién es el usuario?
+1. <b>¿Quién es el usuario?</b>
 
 Estudiantes y profesores universitarios, con habilidades en los centros laborales, que apuntan a un futuro mejor y además, de contar con un trabajo en una empresa mostrando sus trabajos, tesis y demás.
 
-2. ¿Dónde encaja nuestro producto en su vida?
+2. <b>¿Dónde encaja nuestro producto en su vida?</b>
 
 Durante la última etapa universitaria. Permitiendo aplicar conocimientos en proyectos reales, ganar reputación y generar ingresos.
 
-3. ¿Qué problemas resuelve nuestro producto?
+3. <b>¿Qué problemas resuelve nuestro producto?</b>
 
 InnoBridge se centra en resolver problemas como: Validación de trabajos y tesis, obtener oportunidades laborales a nivel nacional e internacional, poca preocupación en los nuevos empleados a las empresas, falta de contratación de plantel por bajos recursos.
 
-4. ¿Cuándo y cómo se usa nuestro producto?
+4. <b>¿Cuándo y cómo se usa nuestro producto?</b>
 
 En el tiempo libre de los estudiantes y profesores, acceden a la aplicación, crean su perfil, suben sus trabajos, tesis y más, buscan oportunidades mediante esos archivos y se visualizan las empresas de quienes están interesados por contar con dicha persona.
 
-5. ¿Qué características son importantes?
+5. <b>¿Qué características son importantes?</b>
 
 - Interfaz sencilla y fácil de aprender.
 - Filtro de búsqueda de habilidades.
@@ -71,11 +71,11 @@ En el tiempo libre de los estudiantes y profesores, acceden a la aplicación, cr
 - Mensajes internos.
 - Perfil con insignias.
 
-6. ¿Cómo debería lucir y comportarse el producto?
+6. <b>¿Cómo debería lucir y comportarse el producto?</b>
 
 Debe ser moderno, amigable, accesible, con diseño responsivo, colores neutros y una experiencia clara e intuitiva que no distraiga ni complique al usuario.
 
-Feature Assumptions
+<strong>Feature Assumptions</strong>
 
 - Creemos que la aplicación debe contar una interfaz de usuario clara, responsiva y fácil de navegar que permitirá a estudiantes y empleadores a utilizar la plataforma sin necesidad de capacitación previa ni conocimientos técnicos avanzados.
 
